@@ -7,8 +7,8 @@ Instructions:
 2. Edit data.txt per the instructions
 3. create a new file (in the "newfiles" folder/directory with your first name as the title. For me, I would create "bryan.txt".
 4. In that file, type something. If you don't know what to type, type "I'm ready for calhacks!"
-5. Commit your changes onto a seperate branch with your name as the branch. DO NOT COMMIT DIRECTLY TO MASTER. Push it if needed.
+5. Commit your changes onto a seperate branch with your name as the branch. Push it if needed. DO NOT COMMIT/PUSH DIRECTLY TO MASTER.
 6. Make a pull request. A pull request merges the branch you have made with the Master branch.
-7. I will approve the pull request
-8. After I approve it, you will be good to go! Note that, afaik, during the actual calhacks everyone will have access
+7. I will approve the pull request. After I approve it confirm the merging of the branches.
+8. You're good to go! Note that, afaik, during the actual calhacks everyone will have access
     and will not need to wait for me to approve of the pull request.
