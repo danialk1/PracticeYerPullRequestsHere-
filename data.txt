@@ -1,0 +1,12 @@
+Hi! Thanks for learning git. Hope this didn't take too long. 
+
+Instructions: Please find your name below and write a boring fact about yourself. 
+
+Name: Danial
+Boring Fact:
+
+Name: Vi
+Boring Fact:
+
+Name: Connie
+Boring Fact:
