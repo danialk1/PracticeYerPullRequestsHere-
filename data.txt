@@ -6,7 +6,7 @@ Name: Bryan
 Boring Fact: I am mostly water.
 
 Name: Danial
-Boring Fact:
+Boring Fact: Testing
 
 Name: Vi
 Boring Fact:
